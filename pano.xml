@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama hideabout="1" apprev="18105" id="node1" appversion="6.1.14">
+  <input height="4992" width="4992" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" overlap="1" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level predecode="0" height="4992" width="4992" preload="0"/>
+    <level predecode="0" height="2496" width="2496" preload="0"/>
+    <level predecode="0" height="1248" width="1248" preload="0"/>
+    <level predecode="0" height="624" width="624" preload="0"/>
+    <level predecode="1" height="312" width="312" preload="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start projection="4" fov="77.25" tilt="-9.11" pan="-0.47"/>
+    <flyin projection="12" fov="247.9" tilt="-89.83" pan="-104.68"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+  </view>
+  <userdata copyright="Александр Казанцев" nodeid="node1" customnodeid="" heading="0" latitude="37.235966" datetime="02.11.2022" tags="панорама" author="Автор: Александр Казанцев" comment="" description="" title="Турция. Тазы каньон" source="" info="" longitude="31.176539" altitude="595.84"/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label border="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" background="1" width="180" textalpha="1" wordwrap="1" enabled="1" borderradius="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1"/>
+    <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+    <hotspot tilt="-12.3" url="" target="" description="Тазы каньон расположен в национальном парке Кёпрюлю Каньон, который является одним из лучших мест для рафтинга в Анталии и Турции в целом. &#xa;Его слава резко возросла в феврале 2019 года из-за рекламы, выпущенной брендом смартфонов Huawei.&#xa;Высота стен каньона- более 400 метров!! Так же он богат флорой и фауной. В нем обитают: медведи, рыси, каракалы, кабаны и многие другие виды животных. " title="Информация" id="Point01" pan="-338.96" skinid="ht_info"/>
+    <hotspot customimage="media/pngwing.com.png" customimagewidth="51" fov="5.77" tilt="-32.71" url="images/IMG-20221104-WA0002.jpg" target="_top" use3D="0" description="" title="Фото" customimageheight="51" distance3D="505.999" id="Point02" pan="-139.58" skinid="ht_image"/>
+  </hotspots>
+  <media>
+    <lensflare color="0xffffff" tilt="64.830" alpha="100.000" blinding="30.000" type="3" id="Lensflare01" pan="-358.230"/>
+  </media>
+  <transition zoomout="0" zoomin="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomafterinfov="90" enabled="1" blendtime="1" type="crossdissolve" softedge="0" zoomfov="20" zoomafteroutfov="20"/>
+  <flyintransition speed="2.00" enabled="1"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control speedwheel="1" hideabout="1" dblclickfullscreen="0" sensitivity="8" simulatemass="1" contextfullscreen="1" rubberband="1" lockedmouse="0" invertwheel="0" contextprojections="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" lockedwheel="0" contextvr="0"/>
+</panorama>
